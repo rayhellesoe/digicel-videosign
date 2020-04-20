@@ -10431,8 +10431,7 @@ header.masthead h1 {
   }
 
   header.masthead {
-    /* background: #ed1b2f; */
-    background: linear-gradient(90deg, rgba(237,27,47,1) 0%, rgba(255,255,255,1) 85%);
+    background: #ed1b2f;
     padding-top: 6rem;
     padding-bottom: 0;
     background-image: url("../assets/img/highlight-light.png");
