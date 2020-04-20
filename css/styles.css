@@ -10182,8 +10182,19 @@ header.masthead h1 {
     min-height:200px
   }
 
+  .price-text-sm > strong{
+    display: block;
+  }
+
   .smallbusiness-panel-img {
     background: url('../assets/img/3-long.jpg');
+    background-size: cover;
+  }
+
+  .price-sm {
+    font-size: 3.5rem !important;
+    margin: 15px 0;
+    display: block;
   }
   
   .side-panel {
